@@ -1,4 +1,4 @@
-#Mission to Mars
+# Mission to Mars
 For This project I made a webscraper to scrape information about the Mission to Mars
 from various websites and display this information onto one HTML file called index.html
 # Following are the screenshots to my webite
